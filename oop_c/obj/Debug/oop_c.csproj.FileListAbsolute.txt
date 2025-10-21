@@ -1,0 +1,4 @@
+F:\2048-csharp-master\oop_c\obj\Debug\oop_c.csprojResolveAssemblyReference.cache
+F:\2048-csharp-master\oop_c\obj\Debug\Game2048.Form1.resources
+F:\2048-csharp-master\oop_c\obj\Debug\oop_c.Properties.Resources.resources
+F:\2048-csharp-master\oop_c\obj\Debug\oop_c.csproj.GenerateResource.Cache
